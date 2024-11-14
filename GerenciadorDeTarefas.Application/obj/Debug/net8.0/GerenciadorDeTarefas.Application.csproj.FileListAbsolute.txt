@@ -1,0 +1,15 @@
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\bin\Debug\net8.0\GerenciadorDeTarefas.Application.deps.json
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\bin\Debug\net8.0\GerenciadorDeTarefas.Application.dll
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\bin\Debug\net8.0\GerenciadorDeTarefas.Application.pdb
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\bin\Debug\net8.0\GerenciadorDeTarefas.Communication.dll
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\bin\Debug\net8.0\GerenciadorDeTarefas.Communication.pdb
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\obj\Debug\net8.0\GerenciadorDeTarefas.Application.csproj.AssemblyReference.cache
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\obj\Debug\net8.0\GerenciadorDeTarefas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\obj\Debug\net8.0\GerenciadorDeTarefas.Application.AssemblyInfoInputs.cache
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\obj\Debug\net8.0\GerenciadorDeTarefas.Application.AssemblyInfo.cs
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\obj\Debug\net8.0\GerenciadorDeTarefas.Application.csproj.CoreCompileInputs.cache
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\obj\Debug\net8.0\Gerencia.C152AD93.Up2Date
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\obj\Debug\net8.0\GerenciadorDeTarefas.Application.dll
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\obj\Debug\net8.0\refint\GerenciadorDeTarefas.Application.dll
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\obj\Debug\net8.0\GerenciadorDeTarefas.Application.pdb
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\obj\Debug\net8.0\ref\GerenciadorDeTarefas.Application.dll

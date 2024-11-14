@@ -1,0 +1,11 @@
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\bin\Debug\net8.0\GerenciadorDeTarefas.Communication.deps.json
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\bin\Debug\net8.0\GerenciadorDeTarefas.Communication.dll
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\bin\Debug\net8.0\GerenciadorDeTarefas.Communication.pdb
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\GerenciadorDeTarefas.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\GerenciadorDeTarefas.Communication.AssemblyInfoInputs.cache
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\GerenciadorDeTarefas.Communication.AssemblyInfo.cs
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\GerenciadorDeTarefas.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\GerenciadorDeTarefas.Communication.dll
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\refint\GerenciadorDeTarefas.Communication.dll
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\GerenciadorDeTarefas.Communication.pdb
+C:\Users\Darlei Rodrigues\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\ref\GerenciadorDeTarefas.Communication.dll
